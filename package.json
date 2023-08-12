@@ -34,7 +34,7 @@
     "grunt-contrib-uglify": "~4.0.0",
     "grunt-docs": "https://github.com/gruntjs/grunt-docs.git#d224f17ae21fe606b5b7eca73155a31f4e341930",
     "grunt-sitemap": "~1.2.1",
-    "highlight.js": "~9.12.0",
+    "highlight.js": "~9.18.5",
     "less-plugin-clean-css": "~1.5.1",
     "lodash": "~4.17.10",
     "marked": "https://github.com/vladikoff/marked/tarball/032a72231503b63e15e76b990a914becf664b0d7",
