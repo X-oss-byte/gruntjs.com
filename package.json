@@ -30,7 +30,7 @@
     "grunt-autoprefixer": "~3.0.4",
     "grunt-contrib-clean": "~1.1.0",
     "grunt-contrib-copy": "~1.0.0",
-    "grunt-contrib-less": "~2.0.0",
+    "grunt-contrib-less": "~2.1.0",
     "grunt-contrib-uglify": "~4.0.0",
     "grunt-docs": "https://github.com/gruntjs/grunt-docs.git#d224f17ae21fe606b5b7eca73155a31f4e341930",
     "grunt-sitemap": "~1.2.1",
