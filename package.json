@@ -25,7 +25,7 @@
     "date-utils": "~1.2.21",
     "ent": "~2.2.0",
     "errorhandler": "~1.5.0",
-    "express": "~4.16.3",
+    "express": "~4.21.1",
     "grunt": "~1.0.3",
     "grunt-autoprefixer": "~3.0.4",
     "grunt-contrib-clean": "~1.1.0",
